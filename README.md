@@ -30,9 +30,4 @@ Dự án yêu cầu một file `data.csv` lấy từ 2 file `comment.csv` và `p
 
 ## ⚙️ Cài Đặt (Installation)
 
-Yêu cầu hệ thống: Python 3.8+ và khuyến nghị sử dụng **GPU (CUDA)** để tăng tốc quá trình huấn luyện.
-
-Cài đặt các thư viện cần thiết thông qua `pip`:
-
-```bash
-pip install torch transformers datasets scikit-learn pandas numpy 
+Các thư viện cần thiết nằm trong file `requirements.txt`
